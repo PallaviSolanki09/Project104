@@ -1,0 +1,28 @@
+body{
+    color: rgb(0, 0, 0);
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-background-violet-orange-colours_23-2148427578.jpg?w=2000");
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+h3{
+    background-color: beige;
+    width: 80%;
+    height: 30px;
+    cursor: pointer;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
+h2{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
